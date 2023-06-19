@@ -1,12 +1,16 @@
-#include <stdio.h>
-/*
- * main - entry function
- * description : main(void) takes no argument
- * returns an integer
- * return : 0 ok
+#include <stdio>
+/**
+ * main - entry point
+ *
+ * main is the entry point to any c program
+ *
+ * Description : main (void) means the function takes no argument
+ * and returns an integre
+ *
+ *Return: 0 (Success)
  */
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art, ");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
