@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
+ * main - entry point
+ *
  * main is the entry point to any c program
  *
- * Description : main (void) means the function takes no argument 
+ * Description : main (void) means the function takes no argument
  * and returns an integre
  *
  *Return: 0 (Success)
