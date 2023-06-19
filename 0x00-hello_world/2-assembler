@@ -1,0 +1,2 @@
+#Q!/bin/bash
+gcc -s $CFILE > main.s
