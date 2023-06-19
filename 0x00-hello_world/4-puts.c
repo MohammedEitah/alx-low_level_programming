@@ -6,7 +6,7 @@
  * and returns an integre
  *
  *Return: 0 (Success)
- * /
+ */
 
 int main(void)
 {
