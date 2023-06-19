@@ -1,6 +1,5 @@
 #include <stdio.h>
-/*
- * main is the entry function to any c program
+/*main is the entry function to any c program
  * main (void) means the function takes no argument and returns an integre
  */
 
