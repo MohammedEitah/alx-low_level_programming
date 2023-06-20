@@ -1,8 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
- * /**
+/**
  * main - entry point
  *
  * main is the entry point to any c program
