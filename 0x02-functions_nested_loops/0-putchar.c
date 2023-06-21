@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 /* 
  * this is a program to print _putchar followed by a new line
